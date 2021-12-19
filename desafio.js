@@ -3,7 +3,7 @@ const hashtag = "#";
 const vetor = [];
 const vetorString = vetor.join(""); 
 vetor.push(hashtag.repeat(21));
-const n = parseInt(prompt("Quantos minutos você quer contar na ampulheta? Apenas números (Número igual ou maior que 20 e menor ou igual a 84)"));
+let n = parseInt(prompt("Quantos minutos você quer contar na ampulheta? Apenas números (Número igual ou maior que 20 e menor ou igual a 84)"));
 const inputUsuario = n - 20;
 
 // Verificação do valor digitado
@@ -65,7 +65,7 @@ function preencher(valorUsuario){
 
   // linha 9 - ok
   // espaço lateral 1; limite hashtag - 15 (corresponde ao valor limite 34 passado pelo dev no input)
-  console.log(`#${espaco.repeat(1)}#${valorUsuario <= 15 ? hashtag.repeat(valorUsuario) : hashtag.repeat(15)}${valorUsuario <= 15 ? espaco.repeat(15 - valorUsuario) : espaco.repeat(15)}#${espaco.repeat(1)}#`);
+  console.log(`#${espaco.repeat(1)}#${valorUsuario <= 15 ? hashtag.repeat(valorUsuario) : hashtag.repeat(15)}${valorUsuario <= 15 ? espaco.repeat(15 - valorUsuario) : espaco.repeat(1)}#${espaco.repeat(1)}#`);
 
   // Base ampulheta
   console.log(vetor.join(""));
