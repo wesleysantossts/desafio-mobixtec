@@ -7,7 +7,7 @@ Fase de teste lógica de programação para a vaga na empresa Mobixtec.
 * [Ampulheta](#ampulheta)
 * [Como usar](#como-usar)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Relatório](#relatorio)
+* [Relatório](#relatório)
 * [Desenvolvedor](#desenvolvedor)
 
 ## Ampulheta
