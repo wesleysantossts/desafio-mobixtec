@@ -1,2 +1,7 @@
-# desafio-mobixtec
-Desafio da fase de Lógica para a vaga na empresa Mobixtec
+# Desafio de Lógica - Mobixtec
+
+Fase de teste lógica de programação para a vaga na empresa Mobixtec.
+
+## Ampulheta
+
+
