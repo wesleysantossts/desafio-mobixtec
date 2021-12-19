@@ -7,7 +7,7 @@ Fase de teste lógica de programação para a vaga na empresa Mobixtec.
 Sistema de ampulheta desenvolvido que preenche, no console, a metade inferior dela de acordo com o número inserido no Prompt pelo usuário.
 
 <div>
-  <img src="./assets/img/ampulheta.jpg" alt="Ampulheta" align="center"/>
+  <img src="./assets/img/Ampulheta.jpg" alt="Ampulheta" align="center"/>
 </div>
 
 ### Como usar
