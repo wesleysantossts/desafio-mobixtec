@@ -5,7 +5,8 @@ Fase de teste lógica de programação para a vaga na empresa Mobixtec.
 ## Guia de leitura
 
 * [Ampulheta](#ampulheta)
-* [Como usar](#como-usar)
+  - [Como usar](#como-usar)
+
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Relatório](#relatório)
 * [Desenvolvedor](#desenvolvedor)
@@ -14,9 +15,9 @@ Fase de teste lógica de programação para a vaga na empresa Mobixtec.
 
 Sistema de ampulheta desenvolvido que preenche, no console, a metade inferior dela de acordo com o número inserido no Prompt pelo usuário.
 
-<div>
-  <img src="./assets/img/Ampulheta.jpg" alt="Ampulheta" align="center"
-  width="75%"/>
+<div align="center">
+  <img src="./assets/img/Ampulheta.jpg" alt="Ampulheta" 
+  width="400px"/>
 </div>
 
 ### Como usar
@@ -41,7 +42,30 @@ Conforme pedido no enunciado, foi apenas utilizada a linguagem Javascript para o
 
 ## Relatório
 
+Levei cerca de 7 horas para desenvolver a aplicação e nas primeiras 3 a 4 horas fiquei testando hipóteses de desenvolvimento, entre elas: criar usando métodos string, utilizando arrays com métodos de arrays, utilizando estruturas de repetição (for, while) e funções. 
 
+Após avaliar e testar essas hipóteses, consegui desenvolver utilizando métodos string, mas ainda não estava funcional e tive que voltar a fase de testes. Essa foi a questão chave que mais gostei no processo: como tornar a aplicação funcional.
+
+Quando estava por volta de 5 horas testando métodos para fazer a aplicação, encontrei uma forma de torná-la funcional, mesclando funções com estruturas de repetição e métodos de string. 
+
+Na parte superior da ampulheta usei a estrutura de repetição "FOR" porque não precisaria alterar individualmente (e de forma variável de acordo com o número que o usuário inserisse no prompt) o número de hashtags. 
+
+Na parte inferior dela optei pelo uso de uma função, pois observei um padrão de repetição para construção das linhas e que poderia acrescentar o número de hashtags e trabalhar com elas através do parâmetro da função. 
+
+Por fim, inseri a validação no sistema, o que levou cerca de 25 minutos, conforme registrado no aplicativo [Pomatez](https://github.com/roldanjr/pomatez).
+
+<div align="center">
+  <img src="./assets/img/PomatezValidacao.jpeg" alt="Validação no Pomatez" width="200px"/>
+  <br/>
+  <sub>Obs: a contagem é feita de forma regressiva. O campo "Faculdade" é de outra tarefa que fiz, esqueci de alterar o nome da tarefa antes de iniciar o contador.</sub>
+</div>
+
+Por volta de 2 horas se passaram até eu finalizar a aplicação. Depois disso, iniciei o processo de documentação, a qual demorei por volta de 1 hora e 48 minutos até aqui.
+
+<div align="center">
+  <img src="./assets/img/PomatezDocumentacao.jpeg" alt="Documentação no Pomatez" width="200px"/>
+  <sub>Obs: a contagem é feita de forma regressiva. O campo "Faculdade" é de outra tarefa que fiz, esqueci de alterar o nome da tarefa antes de iniciar o contador.</sub>
+</div>
 
 ## Desenvolvedor
 
@@ -59,3 +83,7 @@ Conforme pedido no enunciado, foi apenas utilizada a linguagem Javascript para o
     </td>
   </tr>
 </table>
+
+## Agradecimentos ✨
+
+Agradeço aos recrutadores por terem me dado a oportunidade de fazer o teste e mostrar um pouco do que sei. Isso ajuda muito no meu desenvolvimento e, se eu for escolhido, espero que tenhamos juntos um grande futuro de crescimento e expansão pela frente.
