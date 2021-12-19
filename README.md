@@ -10,6 +10,7 @@ Fase de teste lógica de programação para a vaga na empresa Mobixtec.
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Relatório](#relatório)
 * [Desenvolvedor](#desenvolvedor)
+* [Agradecimentos](#agradecimentos-)
 
 ## Ampulheta
 
@@ -55,16 +56,17 @@ Na parte inferior dela optei pelo uso de uma função, pois observei um padrão 
 Por fim, inseri a validação no sistema, o que levou cerca de 25 minutos, conforme registrado no aplicativo [Pomatez](https://github.com/roldanjr/pomatez).
 
 <div align="center">
-  <img src="./assets/img/PomatezValidacao.jpeg" alt="Validação no Pomatez" width="200px"/>
+  <img src="./assets/img/PomatezValidacao.jpeg" alt="Validação no Pomatez"  width="200px"/>
   <br/>
-  <sub>Obs: a contagem é feita de forma regressiva. O campo "Faculdade" é de outra tarefa que fiz, esqueci de alterar o nome da tarefa antes de iniciar o contador.</sub>
-</div>
+  <sub>Obs: a contagem é feita de forma regressiva. O campo "Faculdade" é de outra tarefa <br/> que fiz, esqueci de alterar o nome da tarefa antes de iniciar o contador.</sub>
+</div><br/>
 
 Por volta de 2 horas se passaram até eu finalizar a aplicação. Depois disso, iniciei o processo de documentação, a qual demorei por volta de 1 hora e 48 minutos até aqui.
 
 <div align="center">
-  <img src="./assets/img/PomatezDocumentacao.jpeg" alt="Documentação no Pomatez" width="200px"/>
-  <sub>Obs: a contagem é feita de forma regressiva. O campo "Faculdade" é de outra tarefa que fiz, esqueci de alterar o nome da tarefa antes de iniciar o contador.</sub>
+  <img src="./assets/img/PomatezDocumentacao.jpeg" alt="Documentação no Pomatez"  width="200px"/>
+  <br/>
+  <sub>Obs: a contagem é feita de forma regressiva. O campo "Faculdade" é de outra tarefa <br/> que fiz, esqueci de alterar o nome da tarefa antes de iniciar o contador.</sub>
 </div>
 
 ## Desenvolvedor
