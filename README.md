@@ -21,20 +21,20 @@ Siga instrução abaixo para executar o sistema na sua máquina.
   <table> 
      <li> Clone o este projeto no seu pc e abra ele no VSCode </li>
      <li> Selecione com o botão direio o arquivo ``index.html`` e selecione a opção "Abrir no navegador padrão" (ou abra o arquivo html e pressione o atalho no teclado ``CTRL + Q + W``) </li>
-  </tab>
+  </table>
 </details>
 
 ## Desenvolvimento
 
 <table>
   <tr>
-    <td>Desenvolvedor</td>
+    <td textAlign="center"><strong>Desenvolvedor</strong></td>
   </tr>
   <tr>
-    <td>
-    <img src="./assets/img/desenvolvedor.jpg" height="50px" width="50px" backgroundSize="cover"/>
+    <td textAlign="center">
+    <img src="./assets/img/desenvolvedor.jpg" width="125px" backgroundSize="cover"/>
     <br/>
-    <spain><strong>Wesley Santos</strong></spain>
+    <sub>Wesley Santos</sub>
     </td>
   </tr>
 </table>
