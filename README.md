@@ -6,7 +6,6 @@ Fase de teste lógica de programação para a vaga na empresa Mobixtec.
 
 * [Ampulheta](#ampulheta)
   - [Como usar](#como-usar)
-
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Relatório](#relatório)
 * [Desenvolvedor](#desenvolvedor)
@@ -24,6 +23,18 @@ Sistema de ampulheta desenvolvido que preenche, no console, a metade inferior de
 ### Como usar
 
 Siga instrução abaixo para executar o sistema na sua máquina.
+
+#### Página do projeto
+
+<details>
+  <summary>Como consigo visualizar a página do projeto?</summary>
+  <table> 
+     <li> Entre na página inicial deste repositório no [GitHub](https://github.com/wesleysantossts/desafio-mobixtec) </li>
+     <li> Selecione o link da página que está no campo ["Sobre"](https://wesleysantossts.github.io/desafio-mobixtec/) </li>
+  </table>
+</details>
+
+Após isso, abrirá no seu navegador a página do projeto. Caso não tenha conseguido achar o link, [clique aqui](https://wesleysantossts.github.io/desafio-mobixtec/)
 
 #### VSCode
 
