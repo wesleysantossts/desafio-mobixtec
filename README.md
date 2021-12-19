@@ -39,7 +39,7 @@ Após isso, o navegador executará abrirá a tela da aplicação, onde aparecer�
 
 Conforme pedido no enunciado, foi apenas utilizada a linguagem Javascript para o desenvolvimento da aplicação.
 
-## Relatorio
+## Relatório
 
 
 
