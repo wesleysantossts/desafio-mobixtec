@@ -29,8 +29,8 @@ Siga instrução abaixo para executar o sistema na sua máquina.
 <details>
   <summary>Como consigo visualizar a página do projeto?</summary>
   <table> 
-     <li> Entre na página inicial deste repositório no [GitHub](https://github.com/wesleysantossts/desafio-mobixtec) </li>
-     <li> Selecione o link da página que está no campo ["Sobre"](https://wesleysantossts.github.io/desafio-mobixtec/) </li>
+     <li> Entre na página inicial deste repositório no GitHub (https://github.com/wesleysantossts/desafio-mobixtec) </li>
+     <li> Selecione o link da página que está no campo "Sobre". </li>
   </table>
 </details>
 
