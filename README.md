@@ -2,12 +2,21 @@
 
 Fase de teste lógica de programação para a vaga na empresa Mobixtec.
 
+## Guia de leitura
+
+* [Ampulheta](##Ampulheta)
+* [Como usar](##Como-usar)
+* [Tecnologias utilizadas](##Tecnologias-utilizadas)
+* [Relatório](##Relatorio)
+* [Desenvolvedor](##Desenvolvedor)
+
 ## Ampulheta
 
 Sistema de ampulheta desenvolvido que preenche, no console, a metade inferior dela de acordo com o número inserido no Prompt pelo usuário.
 
 <div>
-  <img src="./assets/img/Ampulheta.jpg" alt="Ampulheta" align="center"/>
+  <img src="./assets/img/Ampulheta.jpg" alt="Ampulheta" align="center"
+  width="75%"/>
 </div>
 
 ### Como usar
@@ -29,6 +38,10 @@ Após isso, o navegador executará abrirá a tela da aplicação, onde aparecer�
 ## Tecnologias utilizadas
 
 Conforme pedido no enunciado, foi apenas utilizada a linguagem Javascript para o desenvolvimento da aplicação.
+
+## Relatorio
+
+
 
 ## Desenvolvedor
 
