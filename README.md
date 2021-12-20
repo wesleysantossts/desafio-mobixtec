@@ -42,7 +42,7 @@ Após isso, abrirá no seu navegador a página do projeto. Caso não tenha conse
   <summary>Como consigo visualizar no navegador a aplicação?</summary>
   <table> 
      <li> Clone o este projeto no seu pc e abra ele no VSCode </li>
-     <li> Selecione com o botão direio o arquivo ``index.html`` e selecione a opção "Abrir no navegador padrão" (ou abra o arquivo html e pressione o atalho no teclado ``CTRL + Q + W``) </li>
+     <li> Selecione com o botão direio o arquivo "index.html" e selecione a opção "Abrir no navegador padrão" (ou abra o arquivo html e pressione o atalho no teclado "CTRL + Q + W") </li>
   </table>
 </details>
 
